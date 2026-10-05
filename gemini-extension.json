@@ -1,0 +1,11 @@
+{
+  "name": "mbx-flow",
+  "version": "1.0.0",
+  "description": "Social media scheduling from Gemini CLI: see your MBX Flow accounts, write drafts and schedule posts across your connected networks.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "mbx-flow": {
+      "httpUrl": "https://app.mbxflow.com/mcp"
+    }
+  }
+}
